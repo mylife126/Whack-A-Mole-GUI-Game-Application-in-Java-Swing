@@ -1,4 +1,17 @@
 # Whack A Mole by Java Swing
+## How to use this Repo
+- clone this repo
+
+- To directly run this app 
+
+```
+java WhackAMole
+```
+
+- Or you can also compile it
+```
+javac WhackAMole.java
+```
 ## How to play
 - You always have 20 seconds to hit the green button, meaning a mole has come out
 - Once you hit the mole, the button would turn red
@@ -7,3 +20,7 @@
 
 ![](demo.gif)
 
+
+```
+
+```
